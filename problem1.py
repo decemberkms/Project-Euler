@@ -16,3 +16,11 @@ for i in nums:
 print(list_3)
 print(list_5)
 print(sum(list_3) + sum(list_5))
+
+
+'''
+l = []
+for i in range(3,1000):
+	if(i%3==0 or i%5==0):
+		l.append(i)
+'''
